@@ -21,7 +21,7 @@ class CheckboxContainer extends React.Component {
   }
 
   /**
-   * OChnage event for classic checkboxes
+   * OnChange event for classic checkboxes
    */
   handleChange(e) {
     let itemName = e.target.name;
